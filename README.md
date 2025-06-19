@@ -27,4 +27,6 @@ Baixe o projeto ou clone com:
 git clone https://github.com/honorexx/jogo-sobrevivendo-na-selva.git
 cd jogo-sobrevivendo-na-selva
 python script.py
+```
+
 Projeto final de Raciocínio Algorítmico - PUCPR
